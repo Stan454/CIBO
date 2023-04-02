@@ -1,2 +1,2 @@
 # CIBO
- Repository for the CIBO front/back-end
+ Repository for the CIBO back-end
